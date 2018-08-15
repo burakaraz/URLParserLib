@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.araz.util.UrlParserUtilTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2018-04-17T10:28:26" hostname="MD1KSWKC" time="0.016">
+  <properties/>
+  <testcase name="getFragmentFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.006"/>
+  <testcase name="getQueryFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getQueryWithNoParameterFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getHostAndPortFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getExceptionWhenUndefinedProtocolIsPresent" classname="com.araz.util.UrlParserUtilTest" time="0.001"/>
+  <testcase name="getHostAndPortIfUserAndPasswordAreAbsentInURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getAuthorityPartWhenQueryIsAbsent" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getAuthorityWithNoHostDoubleColonFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.001"/>
+  <testcase name="getPathIfQueryAndFragmentAreAbsentInURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getAuthorityPartIfUserIsPresentPasswordIsAbsent" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getExceptionWhenURLContainsNotNumericPortValue" classname="com.araz.util.UrlParserUtilTest" time="0.001"/>
+  <testcase name="getAuthorityPartWhenTheRestIsAbsent" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getQueryIfFragmentIsAbsentInURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getAuthorityWithUserAndColonButNoPasswordFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.001"/>
+  <testcase name="getQueryWhenValueIsAbsentFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getSchemeFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getAuthorityPartIfHostIsPresentWithColonAndPortIsAbsent" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getAuthorityWithAtSymbolButNoUserAndNoPasswordFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getFragmentWithNoFragmentValueAmdQueryValueFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getPathFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getAuthorityPartWhenPathIsAbsent" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getHostIfUserAndPasswordAndPortAreAbsentInURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getFragmentWithNoFragmentValueFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getPathIfQueryIsAbsentInURL" classname="com.araz.util.UrlParserUtilTest" time="0.001"/>
+  <testcase name="getExceptionWhenColonIsNotPresentInURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getUserAndPasswordFromURL" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <testcase name="getAuthorityPartIfUserIsPresentWithColonPasswordIsAbsent" classname="com.araz.util.UrlParserUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
